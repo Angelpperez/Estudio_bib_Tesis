@@ -1,0 +1,27 @@
+Authors	Record Count	% of 1.022
+Kim J	9	0.881
+Candia-rivera D	8	0.783
+El Emam K	8	0.783
+Valenza G	8	0.783
+Catrambone V	7	0.685
+Alberdi A	6	0.587
+Lee D	6	0.587
+Lee JH	6	0.587
+Epelde G	5	0.489
+Hernandez M	5	0.489
+Kim H	5	0.489
+Lee S	5	0.489
+Park S	5	0.489
+Roelofs F	5	0.489
+Blackburn L	4	0.391
+Chatterjee S	4	0.391
+Chen S	4	0.391
+Chen Y	4	0.391
+Fabelo H	4	0.391
+Falcke H	4	0.391
+Fang X	4	0.391
+Issaoun S	4	0.391
+Janssen M	4	0.391
+Kim D	4	0.391
+Kim Y	4	0.391
+Showing 25 out of 4.177 entries
